@@ -1,7 +1,4 @@
-# 南京信息工程大学
-# 信息工程
-# 3班张木梓
-# 2022-11-02 17:03
+
 import collections
 import re
 from d2l import torch as d2l
